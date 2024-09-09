@@ -10,7 +10,7 @@ The Ethereum blockchain's **GameT Token (GT)** smart contract is housed in this 
 - **Token Name**: GameT 
 
 ## Important Elements ⭐
-- **ERC20 Standard**: The contract is interoperable with any wallet that supports ERC20 because it adheres to the ERC20 standard.
+- **ERC20 Standard**: The contract is compatible with any wallet that supports ERC20 because it adheres to the ERC20 standard.
 - **Admin Role**: The contract owner, or employer, is in charge of token minting administratively.
 - **Minting Functionality**: By invoking the `safeMint()` method, only the admin is able to mint new tokens.
 
